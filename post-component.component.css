@@ -1,0 +1,21 @@
+.textareacss{
+width: 48%;
+margin-top: 64px;
+}
+.button1{
+    width: 50%;
+    padding: 10px;
+    margin-left: 150px;
+}
+.panel{
+    width: 50%;
+    margin-top: 20px;
+    position:absolute;
+    right:10px;
+    height:fit-content;
+    top: 10px;
+    margin-top: 64px;
+}
+.card2{
+    margin-bottom: 100px;
+}
